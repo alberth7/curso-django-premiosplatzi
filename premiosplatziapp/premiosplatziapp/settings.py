@@ -84,7 +84,7 @@ WSGI_APPLICATION = 'premiosplatziapp.wsgi.application'
 
 #         'PASSWORD': 'Platzi2021!',
 
-#         'HOST': '177.222.49.52',
+#         'HOST': '127.0.0.1',
 
 #         'PORT': '5432',
 #     }
